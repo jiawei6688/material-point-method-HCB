@@ -17,3 +17,5 @@ Please refer to [our wiki](https://github.com/geomechanics/mpm/wiki) for informa
 ## Authors
 
 Please refer to the [list of contributors to the Geomechanics MPM code](AUTHORS.md).
+
+check coding by HKU-LJW
