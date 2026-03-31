@@ -1,2 +1,2 @@
 
-check coding by HKU-LJW
+check coding by HKU-JW,and fouces on PFMPM
